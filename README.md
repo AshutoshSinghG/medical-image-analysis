@@ -19,7 +19,7 @@ An AI-powered web application to analyze medical images (X-ray, MRI, CT, etc.) u
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/medical-image-analysis.git
+git clone https://github.com/AshutoshSinghG/medical-image-analysis.git
 cd medical-image-analysis
 
 ### 2. Update env file
@@ -67,4 +67,4 @@ MIT License
 
 Ashutosh Kumar
 MCA @ NIT Karnataka
-GitHub: @yourusername
+GitHub: @AshutoshSinghG
